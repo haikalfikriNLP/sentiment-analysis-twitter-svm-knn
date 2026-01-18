@@ -39,7 +39,7 @@ smote = SMOTE(random_state=42)
 X_resampled, y_resampled = smote.fit_resample(X, y)
 ```
 ## Pembagian Data Training dan Testing
-![Visualiasi Data](../assets/pembagian_data_training_testing.png)
+![Visualiasi Data](../assets/Before%20%26%20After%20Smote.png) 
 ```python
 # Import libraries
 from sklearn.model_selection import train_test_split
