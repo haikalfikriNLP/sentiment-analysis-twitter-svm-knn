@@ -30,7 +30,7 @@ diterapkan metode oversampling SMOTE.
 
 SMOTE digunakan untuk menghasilkan sampel sintetis
 pada kelas minoritas sehingga distribusi kelas menjadi lebih seimbang.
-![Distribusi Kelas Sebelum SMOTE](../assets/Before_&_After_Smote.png)
+![Distribusi Kelas Sebelum SMOTE](../assets/Before%20%26%20After%20Smote.png)
 
 ```python
 from imblearn.over_sampling import SMOTE
@@ -39,7 +39,7 @@ smote = SMOTE(random_state=42)
 X_resampled, y_resampled = smote.fit_resample(X, y)
 ```
 ## Pembagian Data Training dan Testing
-![Visualiasi Data](../assets/Before%20%26%20After%20Smote.png) 
+![Visualiasi Data](../assets/pembagian_data_training_testing.png) 
 ```python
 # Import libraries
 from sklearn.model_selection import train_test_split
