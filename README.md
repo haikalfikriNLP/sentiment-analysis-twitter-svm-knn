@@ -44,3 +44,8 @@ Tahapan penelitian meliputi:
 ---
 
 ## Struktur Repository
+sentiment-analysis-twitter-svm-knn/
+├── README.md
+├── data/
+├── src/
+├── results/
