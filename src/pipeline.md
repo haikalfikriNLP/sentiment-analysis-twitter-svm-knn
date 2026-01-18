@@ -5,7 +5,7 @@ mulai dari pengumpulan data hingga evaluasi model klasifikasi sentimen.
 
 Pipeline ini dirancang untuk memastikan setiap tahapan
 dilakukan secara sistematis dan terstruktur.
-
+![Pipeline](../assets/pipeline.png)
 ---
 
 ## 1. Data Collection
@@ -85,7 +85,6 @@ model dengan performa terbaik.
 Tahap akhir berupa analisis hasil eksperimen
 dan penarikan kesimpulan berdasarkan performa model.
 
-![Pipeline](../assets/pipeline.png)
 
 Kesimpulan ini menjadi dasar
 untuk rekomendasi pengembangan penelitian selanjutnya.
