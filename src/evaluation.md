@@ -56,6 +56,8 @@ terutama pada kelas minoritas.
 
 ## Performance Comparison
 
+![Comparison Image](../assets/comparative.png) 
+
 Berdasarkan hasil evaluasi:
 - Model **SVM** menghasilkan nilai akurasi dan F1-score
   yang lebih tinggi dibandingkan K-NN.
