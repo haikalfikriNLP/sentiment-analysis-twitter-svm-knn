@@ -5,6 +5,7 @@ mulai dari pengumpulan data hingga evaluasi model klasifikasi sentimen.
 
 Pipeline ini dirancang untuk memastikan setiap tahapan
 dilakukan secara sistematis dan terstruktur.
+
 ![Pipeline](../assets/pipeline.png)
 ---
 
