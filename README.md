@@ -45,7 +45,8 @@ Dapat dilihat dengan link dibawah ini:
 - Kedua algoritma menghasilkan performa klasifikasi yang sangat tinggi.
 - SVM menunjukkan stabilitas dan akurasi yang lebih konsisten.
 - K-NN tetap kompetitif namun sensitif terhadap distribusi data.
-[Result](result/summary.md)
+
+### [Result](result/summary.md)
 ---
 
 ## Struktur Repository
