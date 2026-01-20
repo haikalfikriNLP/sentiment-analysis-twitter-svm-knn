@@ -34,13 +34,18 @@ Tahapan penelitian meliputi:
    - K-Nearest Neighbor
 6. Evaluasi menggunakan confusion matrix dan accuracy bar.
 
+Dapat dilihat dengan link dibawah ini:
+### [Pipeline](src/pipeline.md)
+### [Preprocessing](src/preprocessing.md)
+### [Modeling](src/modeling.md)
+### [Evaluation](src/evaluation.md)
 ---
 
 ## Ringkasan Hasil
 - Kedua algoritma menghasilkan performa klasifikasi yang sangat tinggi.
 - SVM menunjukkan stabilitas dan akurasi yang lebih konsisten.
 - K-NN tetap kompetitif namun sensitif terhadap distribusi data.
-
+[Result](result/summary.md)
 ---
 
 ## Struktur Repository
