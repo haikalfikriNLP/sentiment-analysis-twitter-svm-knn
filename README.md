@@ -48,6 +48,9 @@ Dapat dilihat dengan link dibawah ini:
 
 ### [Result](result/summary.md)
 ---
+## Laporan Jurnal
+
+[📄 Lihat File PDF](result/Journal%20Research%20For%20SVM%20and%20KNN.pdf)
 
 ## Struktur Repository
 ```text
