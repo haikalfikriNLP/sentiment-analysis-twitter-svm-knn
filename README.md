@@ -50,7 +50,7 @@ Dapat dilihat dengan link dibawah ini:
 ---
 ## Laporan Jurnal
 
-[📄 Lihat File PDF](result/Journal%20Research%20For%20SVM%20and%20KNN.pdf)
+[📄 Lihat File PDF](Journal%20Research%20For%20SVM%20and%20KNN.pdf)
 
 ## Struktur Repository
 ```text
